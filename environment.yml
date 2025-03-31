@@ -1,0 +1,17 @@
+# name: myenv
+channels:
+  - defaults
+channel_priority:
+  - strict
+dependencies:
+  - python=3.12.9
+  - pip:
+    - DeepPurpose==0.1.5
+#    - git+https://github.com/bp-kelley/descriptastorus
+#    - ./database/packes/descriptastorus-2.7.0-py3-none-any.whl
+    - descriptastorus==2.7.0
+    - pandas-flavor==0.6.0
+    - biopython==1.85
+    - numpy==2.2.3
+    - pandas==2.2.3
+    - openpyxl

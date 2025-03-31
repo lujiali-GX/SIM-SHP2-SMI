@@ -1,0 +1,8 @@
+DeepPurpose>=0.1.5
+biopython>=1.85
+numpy>=2.2.3
+pandas>=2.2.3
+openpyxl>=3.1.5
+pandas-flavor==0.6.0
+descriptastorus==2.7.0
+# ./database/packes/descriptastorus-2.7.0-py3-none-any.whl
